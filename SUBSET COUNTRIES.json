@@ -1,0 +1,160 @@
+{
+    "Countries": {
+        "Albania":{
+            "uuid":"e52fc412-d868-f1f0-37e6-4bddd0514371",
+            "short_description" : "Albania, Europe"
+        },
+        "Austria":{
+            "uuid":"6d705437-ce74-b061-9864-0079d15fb639",
+            "short_description" : "Austria, Europe"
+        },
+        "Belgium":{
+            "uuid":"0bb46ca5-38e7-3977-5d09-34dd1143a806",
+            "short_description":"Belgium, Europe"
+        },
+        "Bosnia and Herzegovina":{
+            "uuid":"1d5698d7-f5c5-8e13-b58e-1f04f38955ab",
+            "short_description" : "Bosnia and Herzegovina, Europe"
+        },
+        "Bulgaria":{
+            "uuid":"dc0f5a36-f65b-2a3e-4331-7ef52916d4a6",
+            "short_description" : "Bulgaria, Europe"
+        },
+        "Croatia":{
+            "uuid":"a8d0a2f9-3ebc-10a3-d2ff-26649e25d717",
+            "short_description" : "Croatia, Europe"
+        },
+        "Denmark":{
+            "uuid":"f593ac31-624a-2ccd-a203-ddb04c319a79",
+            "short_description" : "Denmark, Europe"
+        },
+        "Estonia":{
+            "uuid":"c0771ac6-45dc-7060-e8e5-4fad1098f695",
+            "short_description" : "Estonia, Europe"
+        },
+        "France":{
+            "uuid":"f134827e-36a1-fd31-a82f-950489e103ef",
+            "short_description" : "France, Europe"
+        },
+        "Germany":{
+            "uuid":"6085b4bf-b18a-1763-a04e-fdde3f6aba94",
+            "short_description":"Germany, Europe"
+        },
+        "Greece":{
+            "uuid":"50a48f30-1948-6175-1c4a-faf5b8b91ef8",
+            "short_description":"Greece, Europe"
+        },
+        "Ireland":{
+            "uuid":"1944e9da-82b4-8190-38c0-014fef22e2ef",
+            "short_description":"Ireland, Europe"
+        },
+        "Italy":{
+            "uuid":"9dd7a8c5-7b7f-7785-90f4-fed17fa5a6ff",
+            "short_description":"Italy, Europe"
+        },
+        "Latvia":{
+            "uuid":"eead7d90-0339-d3e0-859a-e69d0f49c153",
+            "short_description" : "Latvia, Europe"
+        },
+        "Lithuania":{
+            "uuid":"a3de144c-912b-3441-428b-7c69c6d16da3",
+            "short_description" : "Lithuania, Europe"
+        },
+        "Poland":{
+            "uuid":"387919cc-9d26-c5e0-bb97-4e13095c0bac",
+            "short_description":"Poland, Europe"
+        },
+        "Portugal":{
+            "uuid":"315aab30-dbfa-fa2a-8d93-e787e9944dd9",
+            "short_description":"Portugal, Europe"
+        },
+        "Romania":{
+            "uuid":"9c11aede-288a-3d2d-2715-f0ea2bfea02f",
+            "short_description":"Romania, Europe"
+        },
+        "Slovakia":{
+            "uuid":"20b300f3-3b6e-88d4-0888-91d7c90c3dde",
+            "short_description" : "Slovakia, Europe"
+        },
+        "Czech Republic":{
+            "uuid":"47657b8e-1cd4-86b2-fdfe-a4c56f96bfd7",
+            "short_description" : "Czech Republic, Europe"
+        },
+        "Iceland":{
+            "uuid":"6fe0c7bb-f5ac-e2e9-5366-1363d0e2c795",
+            "short_description" : "Iceland, Europe"
+        },
+        "Spain":{
+            "uuid":"3f66b02a-78e2-aca0-2da4-e7e1eed94671",
+            "short_description":"Spain, Europe"
+        },
+        "Slovenia":{
+            "uuid":"db0f595a-cc1d-f555-b312-257699ae4488",
+            "short_description":"Slovenia, Europe"
+        },
+        "Hungary":{
+            "uuid":"d4455190-161a-d2be-ffea-4b358ec17237",
+            "short_description":"Hungary, Europe"
+        },
+        "The Netherlands":{
+            "uuid":"4ae9a82d-35d9-be0c-ea9d-366afba8f8f0",
+            "short_description":"The Netherlands, Europe"
+        },
+        "Ukraine": {
+            "uuid":"09f7e1f6-9981-5bae-830e-d12a55c0cb1e",
+            "short_description":"Ukraine, Europe"
+        },
+        "Serbia": {
+            "uuid":"77658e6c-3615-f344-148a-be50bbe52fc3",
+            "short_description":"Serbia, Europe"
+        },
+        "Luxembourg": {
+            "uuid":"c8a6d9b7-d70d-91c6-6e97-419a4a1276c3",
+            "short_description":"Luxembourg, Europe"
+        },
+        "Switzerland": {
+            "uuid":"078d9679-a862-02a2-57c8-8337e9a1eec8",
+            "short_description":"Switzerland, Europe"
+        },
+        "Turkey": {
+            "uuid":"1fbde7a3-6313-80bf-b2e3-235b44a89699",
+            "short_description":"Turkey, Europe"
+        },
+        "United Kingdom": {
+            "uuid":"a30e342c-1742-6b1c-66e9-461de680e54b",
+            "short_description":"United Kingdom, Europe"
+        },
+        "Finland":{
+            "uuid":"46a87674-f040-2806-b4bb-e9b83efe1070",
+            "short_description" : "Finland, Europe"
+        },
+        "Sweden":{
+            "uuid":"38bdadf8-c28c-6689-5a01-924f0a63442e",
+            "short_description":"Sweden, Europe"
+        },
+        "United States": {
+            "uuid":"f110fca2-1055-99f6-996d-011c198b3928",
+            "short_description":"United States, North America"
+        },
+        "Norway": {
+            "uuid":"9ae73d37-96ed-28a8-46ea-f52b26a2f97d",
+            "short_description":"Norway, Europe"
+        },
+        "Canada": {
+            "uuid":"1b3d6217-ec76-1b13-c47a-aca49b466a2c",
+            "short_description":"Canada, North America"
+        },
+        "India": {
+            "uuid":"44048bf7-db64-0d7a-db20-fd3c1ebf47b0",
+            "short_description":"India, Asia"
+        },
+        "China": {
+            "uuid":"500afaba-4645-0121-d7b8-99327c7aaa07",
+            "short_description":"China, Asia"
+        },
+        "Japan": {
+            "uuid":"e2781ac6-611b-376a-fc7d-ddec670c3d94",
+            "short_description":"Japan, Asia"
+        }
+    }
+}
