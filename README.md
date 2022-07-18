@@ -9,5 +9,5 @@ pip install requests
 
 Run program 
 ```
-pyhton main.py -m functions.py
+python main.py -m functions.py
 ```
